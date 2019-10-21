@@ -20,6 +20,13 @@
     * Utilisez la commande : ``ping 10.2.1.1`` sur le PC 2
 
 
+```
+84 bytes from 10.2.1.2 icmp_seq=1 ttl=64 time=0.466 ms
+84 bytes from 10.2.1.2 icmp_seq=2 ttl=64 time=0.754 ms
+84 bytes from 10.2.1.2 icmp_seq=3 ttl=64 time=0.611 ms
+84 bytes from 10.2.1.2 icmp_seq=4 ttl=64 time=0.622 ms
+84 bytes from 10.2.1.2 icmp_seq=5 ttl=64 time=0.666 ms 
+```
 ## II. More switches
 
 ### Topologie mise en place :
